@@ -1,0 +1,8 @@
+scikit-learn==0.24.2
+spacy==3.0.6
+numpy==1.20.2
+pandas=1.2.5
+configparser=5.0.2
+pathlib2=2.3.5
+torch=1.6.0
+transformers=4.9.2

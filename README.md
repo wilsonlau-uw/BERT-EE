@@ -15,7 +15,7 @@ Please cite our work.
 @article{Wilson-Lau-2021-event-extraction,
     title = "Event-based clinical findings extraction from radiology reports with pre-trained language model",
     author = "Wilson Lau, Kevin Lybarger, Martin L. Gunn, Meliha Yetisgen",    
-    url = "https://arxiv.org/abs/2112.13512"
+    url = "https://link.springer.com/article/10.1007/s10278-022-00717-5"
     }
 
 ```
